@@ -13,7 +13,7 @@
 By providing structured **input folders** (especially the `Entities` folder), **output paths**, and **project patterns**, it automatically creates the entire backend structure — from repositories to controllers — following the **Repository Design Pattern** and clean code principles.  
 During the **project generation process**, the **Builder Design Pattern** is used to construct projects step by step in a flexible and maintainable way.
 
-> This repository serves as a **showcase** for the tool’s capabilities. The actual source code is **not shared**, but its usage has already accelerated development in real projects like [**social-media-api-prototype**](https://github.com/Hereetria/social-media-api-prototype) and [**xeno-terra-api**](https://github.com/Hereetria/xeno-terra-api), where the entire API foundations were scaffolded with this generator.
+> This repository serves as a **showcase** for the tool’s capabilities. The actual source code is **not shared**, but its usage has already accelerated development in real projects like [**social-media-api-prototype**](https://github.com/Hereetria/social-media-api-prototype) and [**xenoterra-api**](https://github.com/Hereetria/xenoterra-api), where the entire API foundations were scaffolded with this generator.
 
 <br>
 
