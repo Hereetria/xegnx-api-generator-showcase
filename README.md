@@ -9,10 +9,7 @@
 
 ## 📌 Project Overview
 
-**Xegnx API Generator** is a powerful internal tool that generates **clean, production-ready .NET REST APIs** in seconds. Currently, it focuses on generating **.NET-based APIs**, but the long-term goal is to support **multiple technologies and architectures** beyond .NET.
-
-<br>
-
+**Xegnx API Generator** is a powerful internal tool that generates **clean, production-ready .NET REST APIs** in seconds. Currently, it focuses on generating **.NET-based APIs**, but the long-term goal is to support **multiple technologies and architectures** beyond .NET.  
 By providing structured **input folders** (especially the `Entities` folder), **output paths**, and **project patterns**, it automatically creates the entire backend structure — from repositories to controllers — following the **Repository Design Pattern** and clean code principles.
 
 <br>
