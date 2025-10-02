@@ -54,7 +54,9 @@ Shown below in order:
 
 ## 📜 License
 
-This repository is for **showcase purposes only**. No generator source code is included.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+This project is licensed under the terms described in the [LICENSE](./LICENSE) file.
 
 ---
 
